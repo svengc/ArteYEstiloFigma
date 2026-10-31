@@ -1,0 +1,11 @@
+{
+  "title": "Arte y estilo",
+  "description": "This web application enhances user experience by providing an interactive platform for showcasing and exploring art styles, tailored for art enthusiasts and creators.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
